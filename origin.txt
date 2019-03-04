@@ -1,0 +1,152 @@
+Uri: http://vincitygrandparkhcm.com/
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\index.htm
+Content Type: text/html
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/css/bootstrap.min.css
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/slick.css
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/slick-theme.css
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\slick-theme.css
+Content Type: text/css
+
+Uri: http://vincitygrandparkhcm.com/styles/main.bundle.css
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\styles\main.bundle.css
+Content Type: text/css
+
+Uri: http://vincitygrandparkhcm.com/assets/images/landscape logo.png
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\images\landscape logo.png
+Content Type: image/png
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540260232-Vincity-Tong-Quan-1.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540260232-Vincity-Tong-Quan-1.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540261925-Vincity-Tong-Quan-2.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540261925-Vincity-Tong-Quan-2.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540263862-Vincity-Vi-Tri-1.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540263862-Vincity-Vi-Tri-1.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540263874-Vincity-Vi-Tri-2.JPG
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540263874-Vincity-Vi-Tri-2.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540263887-Vincity-Vi-Tri-3.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540263887-Vincity-Vi-Tri-3.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540215389-Picture1.png
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540215389-Picture1.png
+Content Type: image/png
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540263235-Vincity-Tien-Ich-2.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540263235-Vincity-Tien-Ich-2.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540263684-Vincity-Thanh-Toan-1.png
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540263684-Vincity-Thanh-Toan-1.png
+Content Type: image/png
+
+Uri: http://vincitygrandparkhcm.com/assets/media/1540263698-Vincity-Thanh-Toan-2.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\media\1540263698-Vincity-Thanh-Toan-2.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/images/dai-do-thi-vincity-grand-park-quan-9.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\images\dai-do-thi-vincity-grand-park-quan-9.jpg
+Content Type: image/jpeg
+
+Uri: http://vincitygrandparkhcm.com/assets/images/logo1.png
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\images\logo1.png
+Content Type: image/png
+
+Uri: http://vincitygrandparkhcm.com/assets/images/EMAIL.png
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\images\EMAIL.png
+Content Type: image/png
+
+Uri: http://vincitygrandparkhcm.com/assets/images/PHONE.png
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\images\PHONE.png
+Content Type: image/png
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/jquery/jquery-3.3.1.min.js
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\jquery\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/js/bootstrap.min.js
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/slick.min.js
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: http://vincitygrandparkhcm.com/scripts/index.js
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\scripts\index.js
+Content Type: application/javascript
+
+Uri: http://vincitygrandparkhcm.com/scripts/main.bundle.js
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\scripts\main.bundle.js
+Content Type: application/javascript
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/ajax-loader.gif
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/fonts/slick.eot
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/fonts/slick.woff
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/fonts/slick.ttf
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: http://vincitygrandparkhcm.com/assets/lib/slick-1.8.1/slick/fonts/slick.svg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\lib\slick-1.8.1\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://vincitygrandparkhcm.com/assets/fonts/Gotham-Black1_0.b19d35a33b73a7d8ee095beeeb0f4f5b.otf
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\fonts\Gotham-Black1_0.b19d35a33b73a7d8ee095beeeb0f4f5b.otf
+Content Type: font/otf
+
+Uri: http://vincitygrandparkhcm.com/assets/fonts/Gotham-Light1_0.f8c4bb6b5f1d5a799583400461e8a576.otf
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\fonts\Gotham-Light1_0.f8c4bb6b5f1d5a799583400461e8a576.otf
+Content Type: font/otf
+
+Uri: http://vincitygrandparkhcm.com/assets/fonts/Gotham-Medium_0.65bf71c5af64bec473db4dc714e9af05.otf
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\fonts\Gotham-Medium_0.65bf71c5af64bec473db4dc714e9af05.otf
+Content Type: font/otf
+
+Uri: http://vincitygrandparkhcm.com/assets/images/icon1.9b25c43002c9ef48e77bdaea6a35441e.jpg
+File Name: C:\xampp\htdocs\vincity\vincitygrandparkhcm.com\assets\images\icon1.9b25c43002c9ef48e77bdaea6a35441e.jpg
+Content Type: image/jpeg
+
